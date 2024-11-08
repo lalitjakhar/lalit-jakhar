@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Lalit Jakhar",
+    "occupation": "Frontend Developer",
+    "description": "currently employed by ",
+    "employer": "Zyneto Global Technologies",
+    "jobDescription": "I develop and maintain responsive web applications using React.js and Next.js, optimizing them for speed and scalability.",
+    "image": "profile_pic.jpeg",
+    "bio": "I am a Frontend Developer passionate about crafting modern, impactful web experiences. Currently working at Zyneto Global Technologies, I focus on responsive and engaging solutions, especially for the recruiting and ecommerce industries. My expertise includes React.js, Next.js, Tailwind CSS, and Material-UI. I continuously explore new technologies and innovative solutions to enhance user interactions.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you. Reach out by email or use the form below.",
+    "email": "lalit25jakhar@gmail.com",
+    "phone": "+91 8690843263",
+    "address": {
+      "street": "",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": ""
+    },
+    "website": "https://zyneto.com",
+    "resumedownload": "https://drive.google.com/file/d/1pO_q5OOA08YJTT3WHtadr_bIFeJFdRKa/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lalitjakhar/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/lalit_choudhary25",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/lalitjakhar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am passionate about frontend development and always eager to learn new technologies. Here are some key skills:",
+    "education": [
+      {
+        "school": "Maharishi Arvind Institute of Science & Management",
+        "degree": "BCA, Computer Science",
+        "graduated": "Expected June 2025",
+        "description": "Pursuing a Bachelor’s degree in Computer Science with a focus on frontend development."
+      }
+    ],
+    "work": [
+      {
+        "company": "Zyneto Global Technologies",
+        "title": "Frontend Developer",
+        "years": "February 2024 - Present",
+        "description": "Develop and maintain responsive web applications using React.js and Next.js. Collaborate with the design team to implement UI/UX designs using Material-UI and Tailwind CSS. Key skills: React.js, Next.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, Material-UI, Web Performance Optimization."
+      },
+      {
+        "company": "GOHASHINCLUDE PVT. LTD.",
+        "title": "Frontend Developer",
+        "years": "September 2022 - February 2024",
+        "description": "Built and maintained front-end components using HTML, CSS, JavaScript, and React.js. Worked closely with backend developers to integrate RESTful APIs. Key skills: HTML, CSS, JavaScript, Bootstrap, React.js, Next.js."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.js",
+        "description": "Experienced in building dynamic and responsive web applications using React.js.",
+        "image": "react.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Skilled in Next.js for server-side rendering and optimized React-based applications.",
+        "image": "nextjs.svg"
+      },
+      {
+        "name": "JavaScript",
+        "description": "Proficient in JavaScript, including modern ES6+ syntax for writing clean, maintainable code.",
+        "image": "javascript.svg"
+      },
+      {
+        "name": "HTML5",
+        "description": "Strong foundation in HTML5 for structuring and presenting web content effectively.",
+        "image": "html.svg"
+      },
+      {
+        "name": "CSS",
+        "description": "Expertise in CSS for styling and creating visually appealing web layouts.",
+        "image": "css.svg"
+      },
+      {
+        "name": "Bootstrap",
+        "description": "Experienced in using Bootstrap for responsive and mobile-first web designs.",
+        "image": "bootstrap.svg"
+      },
+      {
+        "name": "Tailwind CSS",
+        "description": "Proficient in Tailwind CSS for utility-first styling and custom design implementations.",
+        "image": "tailwind.svg"
+      },
+      {
+        "name": "Material-UI",
+        "description": "Skilled in Material-UI for building cohesive and visually consistent UI components.",
+        "image": "material_ui.svg"
+      },
+      {
+        "name": "Web Performance Optimization",
+        "description": "Experienced in optimizing web applications to enhance performance and load times.",
+        "image": "performance.svg"
+      },
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "github.svg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "https://original-thai-food.herokuapp.com/index.html"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "https://github.com/tbakerx/react-resume-template"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Alastair Beaumont - Web Developer at AppColony"
+      }
+    ]
+  }
+}
