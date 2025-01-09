@@ -58,6 +58,12 @@
         "title": "Frontend Developer",
         "years": "September 2022 - February 2024",
         "description": "Built and maintained front-end components using HTML, CSS, JavaScript, and React.js. Worked closely with backend developers to integrate RESTful APIs. Key skills: HTML, CSS, JavaScript, Bootstrap, React.js, Next.js."
+      },
+      {
+        "company": "Kroolo",
+        "title": "Frontend Web Developer",
+        "years": "Oct 2024 - Present",
+        "description": "At Kroolo, I contribute to building innovative, user-centric web applications that empower productivity through AI-driven solutions. My role involves designing and implementing responsive, intuitive interfaces using modern frameworks. Collaborating closely with cross-functional teams, I ensure seamless integration of AI features into the platform, enhancing user workflows and streamlining complex tasks. My work focuses on optimizing performance, accessibility, and scalability, enabling Kroolo to deliver a cutting-edge experience to its users."
       }
     ],
     "skills": [
@@ -116,16 +122,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "At Zyneto Global, we focus on providing you with top-notch web development and software development services that propel your business forward.",
+        "category": "Jaipur Based IT Company",
+        "image": "zyneto.jpg",
+        "url": "https://www.zyneto.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Kroolo Corp Website",
+        "category": "Manage projects, tasks, goals, and documents with easy collaboration through Kroolo's All in One AI powered Productivity Management Software. Sign up now!",
+        "image": "kroolo.png",
+        "url": "http://www.kroolo.com"
       },
       {
         "title": "Original Thai Food",
