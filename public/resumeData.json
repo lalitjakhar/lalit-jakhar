@@ -122,34 +122,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "At Zyneto Global, we focus on providing you with top-notch web development and software development services that propel your business forward.",
-        "category": "Jaipur Based IT Company",
-        "image": "zyneto.jpg",
+        "title": "Zyneto Global Technologies",
+        "category": "At Zyneto Global Technologies, we specialize in delivering cutting-edge web and software development solutions tailored to your business needs. Our team of experts ensures seamless user experiences, robust functionality, and scalable designs. From e-commerce platforms to enterprise applications, we focus on innovation and quality. Partner with us to transform your digital presence and achieve your business goals with confidence.",
+        "image": "zyneto.png",
         "url": "https://www.zyneto.com"
       },
       {
         "title": "Kroolo Corp Website",
-        "category": "Manage projects, tasks, goals, and documents with easy collaboration through Kroolo's All in One AI powered Productivity Management Software. Sign up now!",
+        "category": "Kroolo Corp's official website showcases our comprehensive AI-powered Productivity Management Software. It enables businesses to manage projects, tasks, goals, and documents effortlessly. With features like real-time collaboration, advanced analytics, and intuitive design, Kroolo empowers teams to stay productive and aligned. Explore how our solutions can revolutionize the way you work and help you achieve success.",
         "image": "kroolo.png",
         "url": "http://www.kroolo.com"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "https://original-thai-food.herokuapp.com/index.html"
+        "title": "Kroolo App Website",
+        "category": "The Kroolo App Website highlights our all-in-one Project Management and Task Management platform. Designed for teams and individuals, it offers tools to streamline workflows, track progress, and enhance collaboration. From setting milestones to automating tasks, the Kroolo App ensures efficiency and clarity. Discover how our app can simplify your daily operations and drive results.",
+        "image": "app-kroolo.png",
+        "url": "https://app.kroolo.com"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "https://github.com/tbakerx/react-resume-template"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Kroolo App Website",
+        "category": "The Kroolo App Website highlights our all-in-one Project Management and Task Management platform. Designed for teams and individuals, it offers tools to streamline workflows, track progress, and enhance collaboration. From setting milestones to automating tasks, the Kroolo App ensures efficiency and clarity. Discover how our app can simplify your daily operations and drive results.",
+        "image": "app-kroolo2.png",
+        "url": "https://app.kroolo.com"
       }
     ]
   },
